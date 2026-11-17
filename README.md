@@ -194,7 +194,7 @@ From a business perspective, this type of analysis can support better employee r
 
 ## 5. HR Analytics Dashboard Preview
 
-![HR Analytics Dashboard](HR%20dashboard.png)
+![https://github.com/anshikachauhandata/HR-Analytics/blob/main/Dashboard%20Snapshot.png)
 
 
 
