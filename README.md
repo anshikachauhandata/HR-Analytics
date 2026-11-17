@@ -222,7 +222,7 @@ Based on the dashboard findings, here are a few areas the HR team could investig
 - **Investigate Education-Field Trends:** Explore why employees from certain educational backgrounds account for higher attrition counts.
 
 
-## 8. Conclusion
+## 7. Conclusion
 
 This HR Analytics Dashboard was a great opportunity for me to apply my data analytics skills to a practical business scenario.
 
