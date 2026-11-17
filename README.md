@@ -230,4 +230,10 @@ Instead of looking at employee records individually, the dashboard provides a br
 
 The project helped me strengthen my skills in Power BI, data cleaning, DAX, and data storytelling. It also gave me a better understanding of how data analytics can be used to explore real-world business problems.
 
+
+
+
+
+
+
 **Thanks for taking the time to explore my project!**
